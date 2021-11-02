@@ -1,0 +1,34 @@
+C:\Users\Rashid\source\repos\MoviePlex\bin\Debug\MoviePlex.exe.config
+C:\Users\Rashid\source\repos\MoviePlex\bin\Debug\MoviePlex.exe
+C:\Users\Rashid\source\repos\MoviePlex\bin\Debug\MoviePlex.pdb
+C:\Users\Rashid\source\repos\MoviePlex\obj\Debug\MoviePlex.csprojAssemblyReference.cache
+C:\Users\Rashid\source\repos\MoviePlex\obj\Debug\MoviePlex.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\source\repos\MoviePlex\obj\Debug\MoviePlex.exe
+C:\Users\Rashid\source\repos\MoviePlex\obj\Debug\MoviePlex.pdb
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\bin\Debug\MoviePlex.exe.config
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\bin\Debug\MoviePlex.exe
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\bin\Debug\MoviePlex.pdb
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\obj\Debug\MoviePlex.csprojAssemblyReference.cache
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\obj\Debug\MoviePlex.csproj.CoreCompileInputs.cache
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\obj\Debug\MoviePlex.exe
+E:\sem 2 Cc\Dot Net\working\Final Project\Final Project\MoviePlex\obj\Debug\MoviePlex.pdb
+E:\sem 2 Cc\Dot Net\Final Project\MoviePlex\bin\Debug\MoviePlex.exe.config
+E:\sem 2 Cc\Dot Net\Final Project\MoviePlex\bin\Debug\MoviePlex.exe
+E:\sem 2 Cc\Dot Net\Final Project\MoviePlex\bin\Debug\MoviePlex.pdb
+E:\sem 2 Cc\Dot Net\Final Project\MoviePlex\obj\Debug\MoviePlex.csproj.CoreCompileInputs.cache
+E:\sem 2 Cc\Dot Net\Final Project\MoviePlex\obj\Debug\MoviePlex.exe
+E:\sem 2 Cc\Dot Net\Final Project\MoviePlex\obj\Debug\MoviePlex.pdb
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\bin\Debug\MoviePlex.exe.config
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\bin\Debug\MoviePlex.exe
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\bin\Debug\MoviePlex.pdb
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\obj\Debug\MoviePlex.csproj.CoreCompileInputs.cache
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\obj\Debug\MoviePlex.exe
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\obj\Debug\MoviePlex.pdb
+D:\Level2\DOT NET\Final Project\New folder\MoviePlex\obj\Debug\MoviePlex.csprojAssemblyReference.cache
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\bin\Debug\MoviePlex.exe.config
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\bin\Debug\MoviePlex.exe
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\bin\Debug\MoviePlex.pdb
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\obj\Debug\MoviePlex.csprojAssemblyReference.cache
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\obj\Debug\MoviePlex.csproj.CoreCompileInputs.cache
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\obj\Debug\MoviePlex.exe
+E:\sem 2 Cc\Dot Net\extra\MoviePlex\MoviePlex\obj\Debug\MoviePlex.pdb
